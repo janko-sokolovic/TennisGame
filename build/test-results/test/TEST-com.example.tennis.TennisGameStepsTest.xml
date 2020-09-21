@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.tennis.TennisGameStepsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-09-21T12:39:05" hostname="Jankos-MacBook-Pro.local" time="0.025">
+  <properties/>
+  <testcase name="player1ScoresThreeTimesAndPlayer2ScoresOnce" classname="com.example.tennis.TennisGameStepsTest" time="0.014"/>
+  <testcase name="player2ScoresOnce" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player1ScoresTwice" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player2ScoresTwice" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player1ScoresThreeTimes" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="deuceWithManyPoints" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="deuce" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player2ScoresThreeTimes" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player1ScoresOnce" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <testcase name="player1Advantage" classname="com.example.tennis.TennisGameStepsTest" time="0.005"/>
+  <testcase name="newGameScore" classname="com.example.tennis.TennisGameStepsTest" time="0.001"/>
+  <testcase name="player1Won" classname="com.example.tennis.TennisGameStepsTest" time="0.001"/>
+  <testcase name="bothPlayersScoredTwice" classname="com.example.tennis.TennisGameStepsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
