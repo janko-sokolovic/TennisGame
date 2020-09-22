@@ -35,7 +35,6 @@ public class TennisGame {
     }
 
 
-    // do not care
     private boolean isDeuce() {
         return player1Score > 2 && isTie();
     }
