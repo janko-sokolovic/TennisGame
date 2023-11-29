@@ -85,7 +85,7 @@ public class TennisGameSteps {
     }
 
     private boolean isTie() {
-        return player1Score ==  player2Score;
+        return player1Score == player2Score;
     }
 
     /* STEP 8  */
