@@ -1,3 +1,3 @@
 ## TennisGame Coding Kata ##
 
-Simple example in Java with steps included 
+Simple TDD kata example in Java with steps included. 
